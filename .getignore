@@ -1,0 +1,22 @@
+# Compiled Java class files
+*.class
+
+# Windows folder metadata
+desktop.ini
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output
+/build/
+/out/
+/bin/
